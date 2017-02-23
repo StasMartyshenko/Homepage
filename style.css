@@ -341,6 +341,15 @@ articl>hr {
     font-family: BebasNeueBold;
     font-size: 30px;
     color: #f98561;
+    margin-bottom: 15px;
+}
+
+.f2 {
+    font-family: BebasNeueBold;
+    font-size: 30px;
+    color: #f98561;
+    margin-bottom: 15px;
+    margin-left: 10px;
 }
 
 .twitter>p, .NEWSLETTER>p, .card2>p {
@@ -349,6 +358,7 @@ articl>hr {
     font: 12px Open Sans, sans-serif;
     color: #a3afb2;
     font-weight: 600;
+    margin-left: 10px;
     
 }
 
@@ -356,15 +366,15 @@ articl>hr {
     z-index: 10;
     width: 50px;
     color: black;
-}
+    }
 
 .twitter{
-    width: 220px;  
+    width: 250px;  
 }
 
 
 .NEWSLETTER{
-    width: 220px;
+    width: 300px;
     
 }
 .recent_projects {
@@ -380,13 +390,11 @@ articl>hr {
 }
 
 .card1 {
-    margin: 0;
-    padding: 0;
+    margin-top: -15px;
 }
 
-
 .Contact {
-    width: 260px;
+    width: 190px;
     
 }
 
@@ -395,4 +403,5 @@ articl>hr {
     font: 11px Open Sans, sans-serif;
     text-decoration: none;
     color: #2190c1;
+    margin-left: 10px;
 }
