@@ -1,0 +1,7 @@
+@media screen and (max-width: 768px) {
+    nav, footer, section {
+        width: 400px;
+        margin: auto;
+        
+    }
+}
